@@ -4,13 +4,16 @@ FOOD PORTAL MANAGEMENT
 Introduction
 
 Welcome to the The Tasty Trails Restaurant!
+
 This project aims to solve the challenge of finding a quick and delicious meal in the hustle-bustle of our daily lives. This Food Portal is your digital haven for all your culinary cravings!
+
 Whether you're an admin managing the portal or a hungry user eager to explore a world of delectable options, our portal ensures a smooth and delightful experience for all.
 
 
 Description
 
 Tasty Trails Food Portal is a beginner-friendly Python application integrated with MySQL to create a simple yet effective food ordering system. Built as a Class 12 Computer Science project, this portal allows users to explore a rich menu of dishes and place orders seamlessly, while admins have secure password-protected access to manage the menu and orders.
+
 This project helped me learn how to connect Python with a real database and implement basic user authentication, menu management, and order processing—all through a command-line interface. It’s a practical introduction to backend programming and database connectivity.
 
 
@@ -49,5 +52,6 @@ Technologies Used
 •	MySQL
 
 •	Python MySQL Connector Module
+
 
 Status: Fully functional food ordering system running via terminal/console.
