@@ -7,7 +7,9 @@ Welcome to the The Tasty Trails Restaurant!
 This project aims to solve the challenge of finding a quick and delicious meal in the hustle-bustle of our daily lives. This Food Portal is your digital haven for all your culinary cravings!
 Whether you're an admin managing the portal or a hungry user eager to explore a world of delectable options, our portal ensures a smooth and delightful experience for all.
 
+
 Features
+
 Admin Access: Unlock the Power
 The admin has secure access through a password-protected interface. This allows managing orders, updating the menu, and overseeing the entire Food Portal with ease and precision.
 Ordering Bliss: Explore and Indulge
