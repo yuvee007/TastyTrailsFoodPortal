@@ -11,15 +11,25 @@ Whether you're an admin managing the portal or a hungry user eager to explore a 
 Features
 
 Admin Access: Unlock the Power
+
 The admin has secure access through a password-protected interface. This allows managing orders, updating the menu, and overseeing the entire Food Portal with ease and precision.
+
+
 Ordering Bliss: Explore and Indulge
+
 Users can browse through a tempting menu showcasing a variety of dishes, each with its unique flavor. With just a few clicks, you can place your order and tantalize your taste buds with the finest cuisines.
+
+
 Seamless Exit: You’re Way Out
+
 Whether you’ve finished managing the admin block or are done placing an order, exiting the Food Portal is smooth and hassle-free — ready to welcome you back anytime for your next gastronomic adventure.
 
+
 Our Mission
+
 Our mission is to build a vibrant and interconnected food community that fosters a love for diverse cuisines and culinary experiences. Whether you’re a food enthusiast searching for your next dining adventure or a restaurant seeking to expand your reach, the Food Portal is your go-to platform for all things food-related.
 Join us as we redefine how people discover, share, and savor the world of food through this exciting project!
+
 
 How to Run
 1.	Ensure you have Python, MySQL, and the necessary Python connector installed.
@@ -27,6 +37,7 @@ How to Run
 3.	Run the Python scripts to start the Food Portal application.
 
 Technologies Used
+
 •	Python
 •	MySQL
 •	Python MySQL Connector Module
