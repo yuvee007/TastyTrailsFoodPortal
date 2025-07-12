@@ -37,6 +37,7 @@ Whether you’ve finished managing the admin block or are done placing an order,
 Our Mission
 
 Our mission is to build a vibrant and interconnected food community that fosters a love for diverse cuisines and culinary experiences. Whether you’re a food enthusiast searching for your next dining adventure or a restaurant seeking to expand your reach, the Food Portal is your go-to platform for all things food-related.
+
 Join us as we redefine how people discover, share, and savor the world of food through this exciting project!
 
 
