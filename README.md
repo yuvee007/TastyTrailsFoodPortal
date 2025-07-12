@@ -39,5 +39,7 @@ How to Run
 Technologies Used
 
 •	Python
+
 •	MySQL
+
 •	Python MySQL Connector Module
